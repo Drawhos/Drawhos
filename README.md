@@ -33,6 +33,17 @@ computer systems engineering program
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
+  <a href="#" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/PL/SQL-8A1211?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
+</p>
+<p align="center">
+  <a href="#" target="_blank">
+    <img alt="Assembler" src="https://img.shields.io/badge/Assembler-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white">
+  </a>
 </p>
 <h3 align="center">Backend</h3>
 <p align="center">
@@ -48,6 +59,12 @@ computer systems engineering program
 </p>
 <h3 align="center">Frontend</h3>  
 <p align="center">
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  </a>   
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white">
+  </a> 
   <a href="https://angular.dev/overview" target="_blank">
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&logoColor=white">
   </a>
@@ -67,12 +84,6 @@ computer systems engineering program
   <a href="https://www.mysql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"/> 
-  </a>
-</p>
-<h3 align="center">Cloud & Hosting</h3>
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
   </a>
 </p>
 <h3 align="center">Version Control</h3>
@@ -124,7 +135,13 @@ computer systems engineering program
 <p/>
 <p align="center">
   <a href="https://colab.research.google.com/">
-     <img alt="Colab" src="https://img.shields.io/badge/Colab-FF9C07.svg?style=for-the-badge&logo=google-colab&logoColor=white"/>
+     <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white"/>
+  </a>
+  <a href="https://www.anaconda.com" target="_blank">
+    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+  </a>
+  <a href="https://netbeans.apache.org/" target="_blank"> 
+    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON" />
@@ -134,5 +151,16 @@ computer systems engineering program
   </a>
   <a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  </a>
+<p/>
+<p align="center">
+  <a href="https://www.arduino.cc/">
+    <img src="https://img.shields.io/badge/Arduino%20IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  </a>
+  <a href="https://www.netacad.com/es/cisco-packet-tracer">
+    <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  </a>
+  <a href="https://www.wireshark.org/">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   </a>
 <p/>
