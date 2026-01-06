@@ -165,14 +165,14 @@ computer systems engineering program
   </a>
 <p/>
 
-<h2> Contact with me</h2>
+<h2> Contact with me <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhyYjFoMjlveDBma2NjcWlkY2Q4b253bjh5ZHZjbWkyMTBudWpxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/g1BFZXdninnX9ZIaom/giphy.gif" width="50"></h2>
 <p align="center">
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/esteban-naranjo-rodriguez-506430298/">
-    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+    <img src="https://raw.githubusercontent.com/Drawhos/Drawhos/master/assets/linkedin_logo.png" width="50px" alt="LinkedIn"></a>
     &nbsp; 
     &nbsp;
     <a href="mailto:esteban.082436@gmail.com">
-      <img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img width="85px" alt="Gmail" src="https://raw.githubusercontent.com/Drawhos/Drawhos/master/assets/gmail_logo.png" />
     </a>
 
 <details align="center">
