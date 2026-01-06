@@ -12,7 +12,7 @@ computer systems engineering program
 #  🚀 Knowledge in various areas such as: Web programming, 
 #  software engineering, networks and security, administration.
 !  ✨ "A problem well stated is a problem half solved."
-@@ 💻 Continuous learning about technologies and tools. @@
+@@ 💻 Continuously learning about technologies and tools. @@
 ```
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
