@@ -15,7 +15,7 @@ computer systems engineering program
 @@ 💻 Continuous learning about technologies and tools. @@
 ```
 
-## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
@@ -59,7 +59,7 @@ computer systems engineering program
 </p>
 <h3 align="center">Frontend</h3>  
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3schools.com/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -164,3 +164,21 @@ computer systems engineering program
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   </a>
 <p/>
+
+<h2> Contact with me</h2>
+<p align="center">
+    <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/esteban-naranjo-rodriguez-506430298/">
+    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+    &nbsp; 
+    &nbsp;
+    <a href="mailto:esteban.082436@gmail.com">
+      <img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+  <b><h2 style="color: #fc6203">BONFIRE LIT!</h2> </b>
+  <img src="https://raw.githubusercontent.com/Drawhos/Drawhos/master/assets/bonefire.gif" width="200"/>
+</samp>
